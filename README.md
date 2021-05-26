@@ -6,7 +6,7 @@
 [![Quang's github stats](https://github-readme-stats.vercel.app/api?username=qpmnguyen&show_icons=true&theme=merko&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
-I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research involves developing statistical methods to incorporate functional information for microbiome research , particularly the role of functional redundancy in the context of early life exposures and infant gut microbiomes 🦠.  
+I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research involves developing statistical methods to incorporate functional information for microbiome analyses, and identify microbiome determinants in early life 🦠.  
 
 Seeking opportunities in the intersection between bioinformatics, statistics and epidemiology!
 
