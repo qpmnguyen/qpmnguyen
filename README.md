@@ -11,13 +11,15 @@ I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
-### Reproducible analyses from selected manuscripts  
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=infant_metabolome_microbiome&theme=merko)
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=cILR_analysis&theme=merko)
-
 ### Software  
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=teaR&theme=merko)
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=microbesim&theme=merko)
+![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=teaR&theme=merko). 
+
+![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=microbesim&theme=merko). 
+
+### Reproducible analyses from selected manuscripts  
+[Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
+[cILR: Taxonomic Enrichment Analysis with Isometric Log Ratios](https://github.com/qpmnguyen/cILR_analysis)
+
 
 Seeking opportunities in the intersection between bioinformatics, statistics and epidemiology!
 
