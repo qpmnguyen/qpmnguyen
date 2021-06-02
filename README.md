@@ -12,9 +12,8 @@ I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Software  
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=teaR&theme=merko). 
-
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=microbesim&theme=merko). 
+![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=teaR&theme=merko)
+![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=microbesim&theme=merko)  
 
 ### Reproducible analyses from selected manuscripts  
 [Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
