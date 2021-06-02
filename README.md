@@ -12,8 +12,8 @@ I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Software  
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=teaR&theme=merko)
-![Readme repos](https://github-readme-stats.vercel.app/api/pin/?username=qpmnguyen&repo=microbesim&theme=merko)  
+* [teaR](https://github.com/qpmnguyen/teaR): R package to perform taxonomic enrichment analysis for microbiome relative abundance data. Main implementaiton of cILR and associated data structures.  
+* [microbesim](https://github.com/qpmnguyen/microbesim): R package to perform Monte-Carlo simulations of microbiome relative abundances. Bundles together popular distributional forms. 
 
 ### Reproducible analyses from selected manuscripts  
 [Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
