@@ -12,7 +12,7 @@ I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Software  
-* [teaR](https://github.com/qpmnguyen/teaR): R package to perform taxonomic enrichment analysis for microbiome relative abundance data. Main implementaiton of cILR and associated data structures.  
+* [CBEA](https://github.com/qpmnguyen/CBEA): R package to perform taxonomic enrichment analysis for microbiome relative abundance data using the CBEA approach (Nguyen et al. 2021+). 
 
 ### Reproducible analyses from selected manuscripts  
 [Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
