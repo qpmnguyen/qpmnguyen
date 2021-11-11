@@ -13,6 +13,7 @@ I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research 
 
 ### Software  
 * [CBEA](https://github.com/qpmnguyen/CBEA): R package to perform taxonomic enrichment analysis for microbiome relative abundance data using the CBEA approach (Nguyen et al. 2021+). 
+* [GeneSets.jl](https://github.com/qpmnguyen/GeneSets.jl): Julia package to perform gene set enrichment analysis (Under development).  
 
 ### Reproducible analyses from selected manuscripts  
 [Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
