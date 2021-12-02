@@ -9,7 +9,7 @@ I am a PhD Student at Dartmouth College in the Frost and Hoen Labs. My research 
 [![Quang's github stats](https://github-readme-stats.vercel.app/api?username=qpmnguyen&show_icons=true&theme=merko&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript,shell,nextflow&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Software  
 * [CBEA](https://github.com/qpmnguyen/CBEA): R package to perform taxonomic enrichment analysis for microbiome relative abundance data using the CBEA approach (Nguyen et al. 2021+). 
