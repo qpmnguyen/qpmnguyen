@@ -1,4 +1,4 @@
-### Hi I'm [Quang](https://qpmnguyen.com)! Doing a mixture of epidemiology, bioinformatics and statistics. Primarily microbiome 🦠 work at the moment. 
+#### Hi I'm [Quang](https://qpmnguyen.com)! Doing a mixture of epidemiology, bioinformatics and statistics. Primarily microbiome 🦠 work at the moment. 
 
 Mostly: ![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=165CAA&logoColor=white&style=flat-square&link=)
 ![Julia](https://img.shields.io/static/v1?logo=Julia&label=&message=Julia&color=9558B2&logoColor=white&style=flat-square&link=)
