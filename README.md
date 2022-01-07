@@ -8,7 +8,7 @@ Sometimes: ![Python](https://img.shields.io/static/v1?logo=python&label=&message
 ![SQL](https://img.shields.io/static/v1?logo=SQLite&label=&message=SQLite&color=4479A1&logoColor=white&style=flat-square&link=)
 
 Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&color=B7410E&logoColor=black&style=flat-square&link=)
-![Scala](https://img.shields.io/static/v1?logo=Scala&label=&message=Scala&color=380D09&logoColor=DE3423&style=flat-square&link=)
+![Stan](https://img.shields.io/static/v1?logo=CommonWorkflowLanguage&label=&message=CWL&color=white&logoColor=B5314C&style=flat-square&link=)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2072-3279" href="https://orcid.org/0000-0002-2072-3279" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-2072-3279</a></div>  
 
@@ -24,7 +24,7 @@ Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&c
 <summary> GitHub Stats </summary>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript,shell,nextflow&theme=merko&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpmnguyen&hide=html,jupyter%20notebook,javascript,css,tex,postscript,shell,nextflow&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Quang's github stats](https://github-readme-stats.vercel.app/api?username=qpmnguyen&show_icons=true&theme=merko&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
