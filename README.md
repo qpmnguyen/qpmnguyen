@@ -1,5 +1,7 @@
 #### Hi I'm [Quang](https://qpmnguyen.com)! Doing a mixture of epidemiology, bioinformatics and statistics. Primarily microbiome 🦠 work at the moment. 
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2072-3279" href="https://orcid.org/0000-0002-2072-3279" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-2072-3279</a></div>
+
 Mostly: ![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=165CAA&logoColor=white&style=flat-square&link=)
 ![Julia](https://img.shields.io/static/v1?logo=Julia&label=&message=Julia&color=9558B2&logoColor=white&style=flat-square&link=)
 
@@ -10,8 +12,11 @@ Sometimes: ![Python](https://img.shields.io/static/v1?logo=python&label=&message
 Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&color=B7410E&logoColor=black&style=flat-square&link=)
 ![Stan](https://img.shields.io/static/v1?logo=CommonWorkflowLanguage&label=&message=CWL&color=white&logoColor=B5314C&style=flat-square&link=)
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2072-3279" href="https://orcid.org/0000-0002-2072-3279" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-2072-3279</a></div>  
 
+
+<details>
+<summary> Some stuff I've made </summary> 
+  
 ### Software  
 * [CBEA](https://github.com/qpmnguyen/CBEA): R package for the CBEA method (Nguyen et al. 2022+) for taxonomic enrichment analysis.  
 * [GeneSets.jl](https://github.com/qpmnguyen/GeneSets.jl): Julia package to perform gene set enrichment analysis.  
@@ -19,7 +24,9 @@ Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&c
 ### Reproducible analyses from prepared manuscripts    
 [Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
 [cILR: Taxonomic Enrichment Analysis with Isometric Log Ratios](https://github.com/qpmnguyen/cILR_analysis)  
-
+<br />
+</details>
+ 
 <details>
 <summary> GitHub Stats </summary>
 <br />
