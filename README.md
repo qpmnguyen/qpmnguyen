@@ -10,7 +10,7 @@ Sometimes: ![Python](https://img.shields.io/static/v1?logo=python&label=&message
 ![SQL](https://img.shields.io/static/v1?logo=SQLite&label=&message=SQLite&color=4479A1&logoColor=white&style=flat-square&link=)
 
 Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&color=B7410E&logoColor=black&style=flat-square&link=)
-![Stan](https://img.shields.io/static/v1?logo=CommonWorkflowLanguage&label=&message=CWL&color=white&logoColor=B5314C&style=flat-square&link=)
+![JS](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=yellow&logoColor=black&style=flat-square&link=)
 
 
 
