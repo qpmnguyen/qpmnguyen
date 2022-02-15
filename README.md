@@ -23,7 +23,7 @@ Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&c
 
 ### Reproducible analyses from prepared manuscripts    
 [Associations between the microbiome and metabolome in early life](https://github.com/qpmnguyen/infant_metabolome_microbiome)  
-[cILR: Taxonomic Enrichment Analysis with Isometric Log Ratios](https://github.com/qpmnguyen/cILR_analysis)  
+[CBEA: Competitive Balances for Taxonomic Enrichment Analysis](https://github.com/qpmnguyen/cILR_analysis)  
 <br />
 </details>
  
