@@ -18,7 +18,7 @@ Future: ![Rust](https://img.shields.io/static/v1?logo=Rust&label=&message=Rust&c
 <summary> Some stuff I've made </summary> 
   
 ### Software  
-* [CBEA](https://github.com/qpmnguyen/CBEA): R package for the CBEA method (Nguyen et al. 2022+) for taxonomic enrichment analysis.  
+* [CBEA](https://github.com/qpmnguyen/CBEA): R package for the CBEA method [(Nguyen et al. 2022)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010091) for taxonomic enrichment analysis.  
 * [GeneSets.jl](https://github.com/qpmnguyen/GeneSets.jl): Julia package to perform gene set enrichment analysis.  
 
 ### Reproducible analyses from prepared manuscripts    
